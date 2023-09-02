@@ -3,19 +3,24 @@
 </div>
 
 <div id="body" >
-  <h1> Hi there 👋 I'm ealol. I write some things in Python 💬</h1>
-  <p></p><img src="https://www.codewars.com/users/ealol/badges/small" height="33" /></p> 
+  <h1> Welcome there   👋  </h1>
+  I write some things in Python 💬
+
+----
+ 
 </div>
 
-<h1></h1>
+
 
 My social links:
 
 <div id="body" align="left">
-  <p></p><img src="https://pngimg.com/uploads/telegram/telegram_PNG29.png" width="50" align="center" />@ealol2142</p> 
+  <img src="https://pngimg.com/uploads/telegram/telegram_PNG29.png" width="50" align="center" />@ealol2142
 </div>
-
-
+<h1></h1>
+<div id="body" align="right">
+  <p><img src="https://www.codewars.com/users/ealol/badges/micro" height="33" algin="right"/></p> 
+</div>
 
 
 <!--
