@@ -7,9 +7,9 @@
     Welcome there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <p algin="left" > &nbsp; &nbsp; Write some things in Python &nbsp; 💬 </p>
-  <p algin="left" > &nbsp; &nbsp; &nbsp; Watch something on TV &nbsp; 🖥️</p> 
-  <p algin="left" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Play some video games &nbsp; 🎮</p>
+  <p algin="left" > &nbsp; &nbsp; &nbsp; &nbsp; Write some things in Python &nbsp; 💻 </p>
+  <p algin="left" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Watch something on TV &nbsp; 📺</p> 
+  <p algin="left" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Play some video games &nbsp; 🎮</p>
 
 ----
  
