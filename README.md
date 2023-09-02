@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBqMXJycnRibHA5djV0aTR4d3h5dzBqY2h4YXQ4aGFvZHdhemQyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 </div>
 
-<div id="body" >
+<div id="body" align="center" >
   <h1> Welcome there   👋  </h1>
   I write some things in Python 💬
 
