@@ -20,7 +20,7 @@
 My social links:
 
 <div id="body" align="left">
-  <img src="https://pngimg.com/uploads/telegram/telegram_PNG29.png" width="50" align="center" />@ealol2142
+  &nbsp; &nbsp; <img src="https://pngimg.com/uploads/telegram/telegram_PNG29.png" width="50" align="center" /> @ealol2142 
 </div>
 <h1></h1>
 <div id="body" align="right">
