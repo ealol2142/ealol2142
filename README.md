@@ -5,13 +5,15 @@
 ### Hi there 👋 I'm ealol. I write some things in Python 💬
 
 <div id="body" align="left">
-  <img src="https://pngimg.com/uploads/telegram/telegram_PNG29.png" width="70"/> @ealol2142
+  <p></p><img src="https://pngimg.com/uploads/telegram/telegram_PNG29.png" width="70" align="center" />@ealol2142</p> 
 </div>
+
 
 
 
 <!--
 **ealol2142/ealol2142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img src="../images/2121.png" width="128" height="128" align="top" />Текст вверху изображения</p>
 
 Here are some ideas to get you started:
 
