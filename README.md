@@ -5,7 +5,7 @@
 ### Hi there 👋 I'm ealol. I write some things in Python 💬
 
 <div id="body" align="left">
-  <p></p><img src="https://pngimg.com/uploads/telegram/telegram_PNG29.png" width="70" align="center" />@ealol2142</p> 
+  <p></p><img src="https://pngimg.com/uploads/telegram/telegram_PNG29.png" width="50" align="center" />@ealol2142</p> 
 </div>
 
 
