@@ -1,8 +1,15 @@
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBqMXJycnRibHA5djV0aTR4d3h5dzBqY2h4YXQ4aGFvZHdhemQyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
 </div>
 
-### Hi there 👋 I'm ealol. I write some things in Python 💬
+<div id="body" >
+  <h1> Hi there 👋 I'm ealol. I write some things in Python 💬</h1>
+  <p></p><img src="https://www.codewars.com/users/ealol/badges/small" height="33" /></p> 
+</div>
+
+<h1></h1>
+
+My social links:
 
 <div id="body" align="left">
   <p></p><img src="https://pngimg.com/uploads/telegram/telegram_PNG29.png" width="50" align="center" />@ealol2142</p> 
