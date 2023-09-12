@@ -23,6 +23,9 @@ My social links:
   &nbsp; &nbsp; <img src="https://pngimg.com/uploads/telegram/telegram_PNG29.png" width="50" align="center" /> @ealol2142 
 </div>
 <h1></h1>
+<div id="body" align="center">
+  <p><img src="https://leetcode-stats-six.vercel.app/?username=ealol&theme=dark"/></p> 
+</div>
 <div id="body" align="right">
   <p><img src="https://www.codewars.com/users/ealol/badges/micro" height="33" algin="right"/></p> 
 </div>
