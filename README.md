@@ -24,7 +24,7 @@ My social links:
 </div>
 <h1></h1>
 <div id="body" align="left">
-  <p><img src="https://leetcard.jacoblin.cool/JacobLinCool?theme=nord"/></p> 
+  <p><img src="https://leetcard.jacoblin.cool/ealol2142?theme=nord"/></p> 
 </div>
 <div id="body" align="right">
   <p><img src="https://www.codewars.com/users/ealol/badges/micro" height="33" algin="right"/></p> 
