@@ -6,10 +6,10 @@
   <h1 align="center">
     Welcome here!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+<!--   </h1>
   <p algin="left" > &nbsp; &nbsp; &nbsp; &nbsp; Write some things in Python &nbsp; 💻 </p>
   <p algin="left" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Watch something on TV &nbsp; 📺</p> 
-  <p algin="left" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Play some video Games &nbsp; 🎮</p>
+  <p algin="left" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Play some video Games &nbsp; 🎮</p> -->
 
 ----
  
@@ -22,13 +22,13 @@ My social links:
 <div id="body" align="left">
   &nbsp; &nbsp; <img src="https://pngimg.com/uploads/telegram/telegram_PNG29.png" width="50" align="center" /> @ealol2142 
 </div>
-<h1></h1>
+<!-- <h1></h1>
 <div id="body" >
   <p>
      <img src="https://leetcode-stats-six.vercel.app/?username=ealol&theme=dark" align="left"/>
      <img src="https://www.codewars.com/users/ealol/badges/micro" id="code" height="33" align="right" />
   </p> 
-</div>
+</div> -->
 
 
 <!--
