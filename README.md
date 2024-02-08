@@ -1,11 +1,11 @@
 <div id="header" align="center">
-  <img              src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBqMXJycnRibHA5djV0aTR4d3h5dzBqY2h4YXQ4aGFvZHdhemQyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300"/>
-</div>
-
-<div id="body"  >
-  <h1 align="center">
-    Welcome here!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<!--   <img              src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBqMXJycnRibHA5djV0aTR4d3h5dzBqY2h4YXQ4aGFvZHdhemQyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300"/> -->
+<!-- </div> -->
+<!-- <div id="body"  > -->
+  
+<!--   <h1 align="center"> -->
+<!--     Welcome here! -->
+<!--     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
 <!--   </h1>
   <p algin="left" > &nbsp; &nbsp; &nbsp; &nbsp; Write some things in Python &nbsp; 💻 </p>
   <p algin="left" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Watch something on TV &nbsp; 📺</p> 
